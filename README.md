@@ -28,7 +28,7 @@
 ## Question 3:
 * 1. Using notation of es6 and arrow function , make a function that filters an array of strings, the array filter depending on the length of the string, all the length above 4 should be excluded.
 
-- `filter array(['Food','Pasta','Pizza','Eat'])` - return ['food','Pasta','Eat']
+- `filter array(['Food','Pasta','Pizza','Eat'])` - return ['food','Eat']
 
 ## Question 4:
 * 1. Create a github repository called 'my-assessment', the repository should contain one HTML file with your name in H1 tag, then upload your your files using git commands.
